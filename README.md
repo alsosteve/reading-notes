@@ -20,5 +20,5 @@ https://github.com/alsosteve
 > Published by: Steve Ngo
 
 
-floop '<addr>' bloop
+floop '<wow>' bloop
   
