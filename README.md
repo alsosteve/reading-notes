@@ -1,3 +1,3 @@
 # reading-notes
 code fellows 102
-more stuff later
+# more stuff later
