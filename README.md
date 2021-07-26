@@ -9,7 +9,7 @@ To remember growth mindset I will:
 - find out where I went wrong so I can learn how to avoid or be prepared for similar challenges in the future.
 - look at other who are successful as peers who challenge my own skills or even distant mentors.
 
-### <ins> a little about me </ins>
+### <ins> A little about me </ins>
 
 Hi! I'm Steve. Digital media is my forte. Whether you need a website made, wedding prints done, or videos of your cat. Whatever you need;
 I’m your guy! heres a link to my github: 
@@ -20,5 +20,5 @@ https://github.com/alsosteve
 > Published by: Steve Ngo
 
 
-'<addr>' July 26, 2021
+'<addre>' July 26, 2021
   
