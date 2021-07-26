@@ -1,6 +1,6 @@
 # reading-notes
 code fellows 102
-## more stuff later
+## Demonstrating Knowledge of Markdown Language with Notes 
 
 ## Growth Mindset
 Growth mindset is having the maturity to analyze challenges in your life and being able to work through them in a positive and productive way.
