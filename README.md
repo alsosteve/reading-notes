@@ -10,6 +10,5 @@ To remember growth mindset I will:
 - look at other who are successful as peers who challenge my own skills or even distant mentors.
 
 > Published by: Steve Ngo
-
-'<hello>'
+'<July 26, 2021>'
   
