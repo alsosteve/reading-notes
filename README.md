@@ -1,7 +1,12 @@
-# reading-notes
+# Reading-Notes
 code fellows 102
 
-### <ins> A little about me! </ins>
+## Table of Contents
+
+* [**Markdown**](https://alsosteve.github.io/reading-notes/markdown)
+* [**The Coder's Computer**](https://alsosteve.github.io/reading-notes/thecoderscomputer)
+
+## <ins> A little about me! </ins>
 
 ![Image of Steve Ngo](https://avatars.githubusercontent.com/u/87996914?v=4)
 
