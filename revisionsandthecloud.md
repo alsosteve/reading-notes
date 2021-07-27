@@ -3,4 +3,3 @@ code fellows 102
 
 ## Read: 03 - Revisions and the Cloud
 
-blab 
