@@ -17,6 +17,6 @@ To remember growth mindset I will:
 I’m your guy! heres a link to my github: [https://github.com/alsosteve](https://github.com/alsosteve)
 
 
-Published by: Steve Ngo
+& Published by: Steve Ngo
 
   
