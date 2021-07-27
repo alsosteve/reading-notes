@@ -5,6 +5,7 @@ code fellows 102
 
 * [**Markdown**](https://alsosteve.github.io/reading-notes/markdown)
 * [**The Coder's Computer**](https://alsosteve.github.io/reading-notes/thecoderscomputer)
+* [**Revisions and the Cloud**](https://alsosteve.github.io/reading-notes/revisionsandthecloud)
 
 ## <ins> A little about me! </ins>
 
