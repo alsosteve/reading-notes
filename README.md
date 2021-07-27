@@ -14,7 +14,7 @@ To remember growth mindset I will:
 ![Image of Steve Ngo](https://avatars.githubusercontent.com/u/87996914?v=4)
 
 > Hi! I'm Steve. Digital media is my ~~passion~~ forte. Whether you need a website made, wedding prints done, or videos of your cat. Whatever you need;
-I’m your guy! heres a link to my github: [https://github.com/alsosteve] (https://github.com/alsosteve)
+I’m your guy! heres a link to my github: [https://github.com/alsosteve](https://github.com/alsosteve)
 
 
 Published by: Steve Ngo
