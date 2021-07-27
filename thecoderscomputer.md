@@ -1,5 +1,6 @@
 # [Reading-Notes](https://alsosteve.github.io/reading-notes/)
 code fellows 102
+
 ## Read: 02 - The Coder's Computer
 
 ## Text Editors
