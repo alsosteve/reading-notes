@@ -1,4 +1,4 @@
-# reading-notes
+# [Reading-Notes](https://alsosteve.github.io/reading-notes/)
 code fellows 102
 ## Read: 01 - Learning Markdown
 
@@ -29,3 +29,4 @@ __*Markdown*__ is away web developers create webpages on the Internet. It is a v
 * Automatic Links
 * Strickthrough Text
 * Emojis
+  
