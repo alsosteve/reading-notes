@@ -1,1 +1,3 @@
-# This is going to be my reading notes for my markdown 
+# Read: 01 - Learning Markdown
+
+
