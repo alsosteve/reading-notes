@@ -1,8 +1,8 @@
 # reading-notes
 code fellows 102
-## Demonstrating Knowledge of Markdown Language with Notes:
+## Lab: 01b - Learning Markdown
 
-## Growth Mindset
+### Growth Mindset
 __*Growth mindset*__ is having the maturity to **analyze challenges** in your life and being able to work through them in a **positive and productive** way.
 To remember growth mindset I will:
 - take a step back and disect a problem so I can analyze each step.
