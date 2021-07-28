@@ -8,6 +8,7 @@ code fellows 102
 * [**Revisions and the Cloud**](https://alsosteve.github.io/reading-notes/revisionsandthecloud)
 * [**The Empire Sucks HTML Page**](https://alsosteve.github.io/reading-notes/empiresucks)
 * [**Structure Web Pages with HTML**](https://alsosteve.github.io/reading-notes/https://alsosteve.github.io/reading-notes/structurewebpages)
+* [**Design web pages with CSS**](https://alsosteve.github.io/reading-notes/https://alsosteve.github.io/reading-notes/designwithcss)
 
 ## <ins> A little about me! </ins>
 
