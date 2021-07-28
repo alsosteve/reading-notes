@@ -29,5 +29,27 @@ Before you start you should:
 ### HTML
 
 __*HTML*__ stands for hypertext markup language. I know, that's 2 words not 4... Everything you type into a html file needs to be contained. How you ask, well I'm glad you asked. Evements and text need to be contained in tags. An opening and closing one. it looks like this
-> <p> stuff that will show up on the page. </p>
+
+![example of tag](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
+
+
+#### Here are some tags
+| Tags | Description |
+| --- | --- |
+| <p> | text |
+| <strong> | strongly empasize text |
+| <img src="images/firefox-icon.png" alt="My test image"> | image from a webpage |
+
+A basic completed page should look like this:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="My test image">
+  </body>
+</html>
 
