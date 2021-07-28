@@ -30,6 +30,10 @@ code fellows 102
 | git remote rename (origional name) (changed name)| renames remote shorthand |
 | git remote rm (remote name) | removes remote |
 |  |  |
+| git commit --amend | used to alter commit message |
+|  |  |
+|  |  |
+|  |  |
 
 
 First you get to your repository. Then you run code to open VSC. Then you make cyourchanges. Don't forget to "CTR + S" to save your work. Then you add-push-pull. You will be promted to log in. Log in and you're done.

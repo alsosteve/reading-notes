@@ -53,3 +53,30 @@ A basic completed page should look like this:
   </body>
 </html>
 
+#### To make a tag you do this:
+
+<ul>
+  <li>technologists</li>
+  <li>thinkers</li>
+  <li>builders</li>
+</ul>
+
+#### A link looks like this:
+
+<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+
+#### More Tags
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+<h1>
