@@ -11,15 +11,28 @@ code fellows 102
 | --- | --- |
 | pwd | current location |
 | ls | root directory (available files) |
-| cd (filename) | moves into file |
+| cd (filename here here) | moves into file |
 | --- | --- |
 | code . | opens VS Code |
 | git push origin main | log in |
 | git add . | adds all files |
 | git commit -a "add your comment here"| commits all files |
 | --- | --- |
-|  |  |
-| git add (file_name) | adds only that file |
+| git add (file_name here) | adds only that file |
 | git commit -m "add your comment here" | commits changes to one file |
+| git push origin main | pushes repository (will ask you to log in) |
+|  |  |
+| git remote | view short name of specified remote handles |
+| git remote -v | view all remote URLs and their short names |
+| git remote add (shortname url here) | create a new remote Git repository with a short name |
+|  |  |
+|git fetch (remote-name)  | pulling data you don't have frome remote project |
+| git remote rename (origional name) (changed name)| renames remote shorthand |
+| git remote rm (remote name) | removes remote |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 So first you git push origin main, then log in. Next you want to cd into your reading-notes file. Then you can start working.
