@@ -24,6 +24,9 @@ Computers work in 1's and 0's. Binary counts using 1's and 0's.
 Data can be converted into binary so a computer can process it.
 
 #### CPU, Memory, Input & Output
+Input in a computer comes in the for of external devises, like a keyboard. The Keyboard produces a binary code that is sent to a CPU to process it and convert it into whateve comand you gave it. The smaller technology gets the smaller computers get. Parts to product. 
 
+#### Hardware and Software
+Hardware is the physical aspects of a computer. Software is the programs that run in a computer. The CPU is the masterchip that controls all other aspects of the computer. Computers run multyple softwares at once using a operating system.
 
-**_Java Script_**
+> Thanks for comming to my TED talk. -Steve Ngo
