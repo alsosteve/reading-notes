@@ -9,6 +9,7 @@ code fellows 102
 * [**The Empire Sucks HTML Page**](https://alsosteve.github.io/empire_sucks/)
 * [**Structure Web Pages with HTML**](https://alsosteve.github.io/reading-notes/structurewebpages)
 * [**Design web pages with CSS**](https://alsosteve.github.io/reading-notes/designwithcss)
+* [**Dynamic web pages with JavaScript**](https://alsosteve.github.io/reading-notes/dynamicjavascript)
 
 ## <ins> A little about me! </ins>
 
