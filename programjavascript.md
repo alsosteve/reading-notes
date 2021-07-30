@@ -29,4 +29,4 @@ A *Function* is how operators find the output to your inputs. It is like the mat
 * [Explaining Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * [Function Examples](https://www.w3schools.com/js/js_functions.asp)
 * [Explaining Expressions & Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-* [Operator Examples]https://www.w3schools.com/js/js_operators.asp()
+* [Operator Examples](https://www.w3schools.com/js/js_operators.asp)
