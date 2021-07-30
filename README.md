@@ -10,6 +10,7 @@ code fellows 102
 * [**Structure Web Pages with HTML**](https://alsosteve.github.io/reading-notes/structurewebpages)
 * [**Design web pages with CSS**](https://alsosteve.github.io/reading-notes/designwithcss)
 * [**Dynamic web pages with JavaScript**](https://alsosteve.github.io/reading-notes/dynamicjavascript)
+* [**Operators and Loops**](https://alsosteve.github.io/reading-notes/opsandloop)
 
 ## <ins> A little about me! </ins>
 
