@@ -16,21 +16,21 @@ code fellows 102
 
 ### Code 201 Reading Notes
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ## <ins> A little about me! </ins>
 
