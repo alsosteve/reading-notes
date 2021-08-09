@@ -3,6 +3,8 @@ code fellows 102
 
 ## Table of Contents
 
+### Code 102 Reading Notes
+
 * [**Markdown**](https://alsosteve.github.io/reading-notes/markdown)
 * [**The Coder's Computer**](https://alsosteve.github.io/reading-notes/thecoderscomputer)
 * [**Revisions and the Cloud**](https://alsosteve.github.io/reading-notes/revisionsandthecloud)
@@ -11,6 +13,24 @@ code fellows 102
 * [**Design web pages with CSS**](https://alsosteve.github.io/reading-notes/designwithcss)
 * [**Dynamic web pages with JavaScript**](https://alsosteve.github.io/reading-notes/dynamicjavascript)
 * [**Operators and Loops**](https://alsosteve.github.io/reading-notes/opsandloops)
+
+### Code 201 Reading Notes
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ## <ins> A little about me! </ins>
 
