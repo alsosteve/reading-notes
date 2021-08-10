@@ -19,3 +19,13 @@ code fellows 201
 #### Extra Markup
   - Doctypes- This is a declaration at the beginning of a document that tells the browser which version of html is being used
   - Comments- A comment in your code is a section that can only be visible from the code of your document. It does not show in the website. It is used to explain or add comments for programmers to use and understand what is happening, like a side note. You can add a comment by typing: <!-- comment goes here -->
+  - ID Attribute- The id attribute is used to assign a unique identifier to an element. It allows you to individually apply styles with CSS.
+  - Class Attribute- Similar to the ID Atribute but can be assigned to multyple elements for quick styling of many elements.
+  - Block Elements- Block level elements are elements that start on a new line in the browser. Similar to how pharagraphs are divided.
+  - Inline Elements- Inline elements will continue on from the last inline element, similar to how sentances continue on from eachother. 
+  - Div Element- The <div> element groups a set of elements together in one block level box.
+  - Span Element- The <span> element is like the div element but the inline version.
+  - iFrames- an <iframe> is used to imbed a web page or section of a web page into your web page.
+  - Meta- The <meta> element is in the head element. It is the metadata of your website.
+
+#### HTML5 Layout
