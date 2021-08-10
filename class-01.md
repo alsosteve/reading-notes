@@ -42,3 +42,18 @@ code fellows 201
   - **_Sectioing Elements_**- The **<div>** element groups together related elements.
 
 ### Process & Design
+
+When building a website, you need to keep in mind who will ne using it. Websites work best when you keep in mind that you and your target audience may see things diffrently. Instead of asking what your favorite color is, ask what the daily user of this website might like to see instead. Think about why they are using your site. There is a specific reason why they are here. What kind of things do they expect to see, How can you help them achieve their goal? Remember that they need specific information that you should make easily available to them, nobody likes searching around for phone numbers or hours of operation through a bunch of links. How often people visit your websit should determin how often it needs to be updated. Returning users want to see what's new and improved.
+
+  - **_Site Maps_**- This is a type of visual aid that maps out how webpages branch off into eachother
+  - **_Wireframes_**- This is a type of visual aid tht maps out how a website should look.
+
+## JavaScript & JQuery
+
+### The ABC of Programming
+
+A **_Script_** is a series of instructions a computer follows to complete a task. Like in an instruction manual or recipe book, instructions are writen and followed in a step by step format. There are three main steps to writing a script.
+
+1. Define the goal
+2. Design the script
+3. Code each step
