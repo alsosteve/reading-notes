@@ -16,8 +16,8 @@ code fellows 102
 
 ### Code 201 Reading Notes
 
-* 
-* 
+*  [**Introductory HTML and JavaScript**](https://alsosteve.github.io/reading-notes/class-01)
+*  [**Basics of HTML, CSS & JS**](https://alsosteve.github.io/reading-notes/class-02)
 * 
 * 
 * 
