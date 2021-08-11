@@ -18,7 +18,7 @@ code fellows 102
 
 *  [**Introductory HTML and JavaScript**](https://alsosteve.github.io/reading-notes/class-01)
 *  [**Basics of HTML, CSS & JS**](https://alsosteve.github.io/reading-notes/class-02)
-* 
+*  [**HTML Lists, CSS Boxes, JS Control Flow**](https://alsosteve.github.io/reading-notes/class-03)
 * 
 * 
 * 
