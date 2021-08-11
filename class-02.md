@@ -46,3 +46,28 @@ For more information on designing with CSS see previous notes: [Reading-Notes-10
 
 ### Basic JavaScript Instructions
 
+A **_Script_** is a set of instructions that the programm follows to complete a task. Each individual action or step is know as a **_statement_**. 
+
+#### Comments
+Comments in code are writen by developers to explain what the code does. You can add a comment by using the "//" in the beginning of a line before you start typing. Multyple line comments are contained within: */ Comments go here /*
+
+#### Variables
+A **_variable_** is where information in code is stored. Variables have 6 rules for naming them:
+1. The name needs to start with a letter, dollar sign, or underscore. No numbers!
+2. The rest can contain the characters allowed in the first rule in any order, but can include numbers now. No dashes or periods.
+3. No keyword or reserved words
+4. Variables are case sensitive
+5. Use a name that describes the information
+6. For multi word variables: no spaces, first word lowercase, second word uppercase
+
+#### Data Types
+There are 3 data types:
+1. Numeric Data - numbers
+2. String Data  - text
+3. Boolean Data - true or false
+
+#### Array
+An **_Array_** stores a list of variables. Items listed within an array start with the number 0, not 1.
+
+### Decissions & Loops
+See previous notes about this topic here: [Reading-Notes-102: Operators and Loops](https://alsosteve.github.io/reading-notes/opsandloops)
