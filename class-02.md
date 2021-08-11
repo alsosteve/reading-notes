@@ -7,7 +7,7 @@ code fellows 201
 
 ### Text
 
-Wgen you make a web page, use mark-up tags to emphasize sertaint content within the text. **_Structural Markup_** is used to describe headings and pharagraphs. **_Semantic Markuo_** is used to provide extra emphasisin a sentance.
+When you make a web page, use mark-up tags to emphasize sertaint content within the text. **_Structural Markup_** is used to describe headings and pharagraphs. **_Semantic Markuo_** is used to provide extra emphasisin a sentance.
 
 #### Headings 
 HTML has 6 levels of headings. The **<h1>** tag is ised for main headings. **<h2>** is used for subheadings. The rest are used to further divide sections of your web page as you see fit.
