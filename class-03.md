@@ -6,3 +6,7 @@ code fellows 201
 ## HTML & CSS
 
 ### Lists
+Html provides us with 3 types of lists:
+- **_Ordered Lists_**   - A numbered list
+- **_Unordered List _** - A bullet point list
+- **_Definition List_** - made up of set terms along with their definition
