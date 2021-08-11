@@ -70,4 +70,31 @@ There are 3 data types:
 An **_Array_** stores a list of variables. Items listed within an array start with the number 0, not 1.
 
 ### Decissions & Loops
+
+#### Comparison operators
+a == b 'loose equality' 10 == '10' Value must be the same but type can be different 
+
+a === b 'strict eqaulity' both the type and the value have to be the same 10 === 10
+
+a != b 'inequality' 10 != '10' (this is false)
+
+a !== b 'strict inquality' 10 !== '10' (this is true)
+
+a > b 'greater than' 
+
+a < b 'less than'
+
+a >= b 'greater than or equal to'
+
+a <= b 'less than or equal to'
+
+
+#### logical operators
+a && b "and"
+
+a || b "or"
+
+!a "not a" - bang/ opposite day
+
+
 See previous notes about this topic here: [Reading-Notes-102: Operators and Loops](https://alsosteve.github.io/reading-notes/opsandloops)

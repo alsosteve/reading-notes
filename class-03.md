@@ -14,4 +14,17 @@ Html provides us with 3 types of lists:
 - **_Nested List_**     - A list within a list
 
 ### Boxes
+![Image of ref](https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/Artboard-1.jpg)
 
+CSS puts elements in HTML in their own boxes. Each bos contains a border, margin, and padding. Use the following links to see style options for the following:
+
+- [border styles](https://www.w3schools.com/css/css_border.asp)
+- [margin styles](https://www.w3schools.com/css/css_margin.asp)
+- [padding styles](https://www.w3schools.com/css/css_padding.asp)
+
+## JavaScript & JQuery
+
+### Arrays
+This is a data type in JavaScript. It is a list of elements.
+
+### Using Statementss
