@@ -25,6 +25,6 @@ CSS puts elements in HTML in their own boxes. Each bos contains a border, margin
 ## JavaScript & JQuery
 
 ### Arrays
-This is a data type in JavaScript. It is a list of elements.
+This is a data type in JavaScript. It is a list of elements. It is automataclly numbered. The first item on an array is indexed at the value of 0 not 1.
 
-### Using Statementss
+### Using Statements
