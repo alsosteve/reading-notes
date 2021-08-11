@@ -5,7 +5,7 @@ code fellows 201
 
 ## HTML & CSS
 
-### Text
+### Chapter 2: Text (p. 40-61)
 
 When you make a web page, use mark-up tags to emphasize sertaint content within the text. **_Structural Markup_** is used to describe headings and pharagraphs. **_Semantic Markuo_** is used to provide extra emphasisin a sentance.
 
@@ -37,14 +37,15 @@ the **<hr />** tag inserts a horizontal rule in the page.
 **_Quotes_**- the **<q>** tag is used for smaller quotes that sit within a pharagraph.
 **_Citations_**- use **<cite>** tag to indicate where a citation is from.
 
-### Introducing CSS
+### Chapter 10: Ch.10 Introducing CSS (p. 226-245)
+
 
 CSS works by changing the way elements within certaint tags look in HTML.
 For more information on designing with CSS see previous notes: [Reading-Notes-102: Design web pages with CSS](https://alsosteve.github.io/reading-notes/designwithcss)
 
 ## JavaScript & JQuery
 
-### Basic JavaScript Instructions
+### Chapter 2: Basic JavaScript Instructions (p. 53-84)
 
 A **_Script_** is a set of instructions that the programm follows to complete a task. Each individual action or step is know as a **_statement_**. 
 
@@ -69,7 +70,8 @@ There are 3 data types:
 #### Array
 An **_Array_** stores a list of variables. Items listed within an array start with the number 0, not 1.
 
-### Decissions & Loops
+### Chapter 4: Decisions and Loops (p. 145-162)
+
 
 #### Comparison operators
 a == b 'loose equality' 10 == '10' Value must be the same but type can be different 
