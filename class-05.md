@@ -19,7 +19,19 @@ There are many reasons to include an image into a webpage. As a developer you sh
 When working with images, you should keep a folder specifically for storing your files. This promotes good organization habbits. Name the file **_images_**. On a large website, the **_images_** folder may contain subfolders for further organization. 
 
 #### Adding Images
-<img> 
+![image of image line of code](https://cdo-curriculum.s3.amazonaws.com/media/uploads/img_tag.png)
+To add an image element you need to create an **img tag**, as seen on section 1. Section 2 is on the **src attribute**. This is where a relative url is placed to import the actual image. Make sure you are using the correct format for imported files, they need to end in _.jpeg, .png, or .gif_. The a**lt attribute**, section 3, provides a description of the image for users who can not see it. Lastly a **title attribute** can be added to provide additional information. The **hight & width attributes** are a way you can change the size of an image outside of css.
+
+#### Where to place images in your code
+Where you place the image tag in your code can affect the layout of your webpage.
+1. Before a paragraph
+This starts the paragraph on a new line after the image.
+
+2. Inside the start of a paragraph
+The lirst line of the paragraph alines with the bottom of the image.
+
+3. In the middle of the paragraph
+The image generates in the middle of the text it was placed in.
 
 
 ### Chapter 11: Color (p. 246-263)
