@@ -13,8 +13,17 @@ When linking pages on the same sit you canuse a **_relative_** URL instead of a 
 
 A **_Directory_** is a folder in a repository. You sould organize by placing the pages for each diffrent section of the site in a new folder.
 
-### Chapter 15: Layout (p. 3558-404)
+### Chapter 15: Layout (p. 358-404)
 
 ## JavaScript & JQuery
 
 ### Chapter 3: Functions, Methods, and Objects (p. 86-99 ONLY)
+
+#### Functions & Objectives
+**_Functions_** are groups or series of statements that allow you to preform a specific task Think of this like having a group of functions in a prepared envelope with letters inside that can be called upon to be sent out.
+A function  must first be declared, before it can be called upon.
+
+
+#### Objectives
+
+#### Built-In Objectives
