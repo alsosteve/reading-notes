@@ -21,7 +21,7 @@ code fellows 102
 *  [**HTML Lists, CSS Boxes, JS Control Flow**](https://alsosteve.github.io/reading-notes/class-03)
 *  [**HTML Links, CSS Layout, JS Functions**](https://alsosteve.github.io/reading-notes/class-04)
 *  [**HTML Images; CSS Color & Text**](https://alsosteve.github.io/reading-notes/class-05)
-*  [**JS Object Literals; The DOM**](https://alsosteve.github.io/reading-notes/class-05)
+*  [**JS Object Literals; The DOM**](https://alsosteve.github.io/reading-notes/class-06)
 * 
 * 
 * 
