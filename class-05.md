@@ -59,6 +59,9 @@ As said before, measure your image in pixels. Save images at a resolution of 300
 
 ### Chapter 11: Color (p. 246-263)
 
+Additional Resources:
+[Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+
 ### Chapter 12: Text (p. 264-299)
 
 ### [Blog Post: JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
