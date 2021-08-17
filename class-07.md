@@ -69,5 +69,5 @@ The **_td_** tag is used to create a **_table data_** element. This is each indi
 
 ## [JavaScript & JQuery]
 
-### Chapter 3: Functions, Methods, and Objects (p. 106-144)
+### Chapter 3: Functions, Methods, and Objects (p. 106-144 ONLY)
 
