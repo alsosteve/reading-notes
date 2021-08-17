@@ -47,3 +47,12 @@ You use this notation when:
 * a variable is used in place of property name
 
 ### Chapter 5: Document Object Model (p. 183-242)
+The **_Document Objective Model (DOM)_**  is a visual representation of how browsers create HTML pages and how JavaScript acesses and updates contents in the page.
+
+##### Nodes
+When you load an html file the browser creates a mode that is stored in the browser's memory. This is a DOM tree. It has four main nodes:
+
+###### Document Node
+The **_Document Node_** is the starting point of the tree. It sits at the top. It represents the entire page as a whole. 
+###### Element Node
+The **_Element Node_** 
