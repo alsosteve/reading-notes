@@ -28,7 +28,7 @@ var hotel = {
 };
 ```
 The **_key_** is how you define the variables and functions. they are on the left side of the ':'.
-The values are what is contained within the key, there are what follows the ':'.
+The **_values_** are what is contained within the key, there are what follows the ':'.
 
 #### Accessing an Object
 There are 2 ways to acces an object, dot notations and the square bracket method.
