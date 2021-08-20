@@ -24,7 +24,7 @@ code fellows 102
 *  [**JS Object Literals; The DOM**](https://alsosteve.github.io/reading-notes/class-06)
 *  [**HTML Tables; JS Constructor Functions**](https://alsosteve.github.io/reading-notes/class-07)
 *  [**Forms and Events**](https://alsosteve.github.io/reading-notes/class-09)
-* 
+*  [**JS Debugging**](https://alsosteve.github.io/reading-notes/class-10)
 * 
 * 
 * 
