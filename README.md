@@ -25,7 +25,7 @@ code fellows 102
 *  [**HTML Tables; JS Constructor Functions**](https://alsosteve.github.io/reading-notes/class-07)
 *  [**Forms and Events**](https://alsosteve.github.io/reading-notes/class-09)
 *  [**JS Debugging**](https://alsosteve.github.io/reading-notes/class-10)
-* 
+*  [**JS Debugging**](https://alsosteve.github.io/reading-notes/class-11)
 * 
 * 
 * 
