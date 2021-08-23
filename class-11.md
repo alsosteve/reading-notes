@@ -7,8 +7,6 @@ code fellows 201
 
 ### Chapter 16: Images (p. 406-427)
 
-### Chapter 19: Practical Information (p. 476-492)
-
 #### Basics
 Image size can be controlled using the **_height_** and **_width_** properties in CSS. Specifying image size helps the page load faster. You can use classes to make images more uniform.
 
@@ -120,3 +118,19 @@ div {
   background: #ffffff url("images/pattern.gif") no-repeat top right;
 }
 ```
+
+#### Linking Images and Buttons
+A **_rollover_** is when you place your mouse over a button or link i=and it changes to a second style.
+A **_sprite_** is when you use an image multyple times for diffrent interfaces.
+
+#### Gradients and background contrasts
+Gradients are hard to explain so here is an example. It's pretty easy to figure it out.
+``` css
+body {
+  background: linear-gradient(90deg, rgb(153, 56, 245) 33%, rgb(41, 41, 41) 33%, rgb(41, 41, 41) 66%, rgb(153, 56, 245) 66%);
+}
+```
+You should chande the contrast of an image to make text more legable. Or you add a screen inbetween the text and the image.
+
+### Chapter 19: Practical Information (p. 476-492)
+
