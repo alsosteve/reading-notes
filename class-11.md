@@ -67,11 +67,11 @@ img.align-center {
 #### Background Images
 You can use an image as a background. If your image is too small, it will repeat itself to fill the empty space. There are 4 background repeating options:
 * **_repeat_** - this is the default, image repeats vertically and horizontally
-* **_repeat-x_** - this repeats the image strictlly horizontally
-* **_repeat-y_** - this repeats the image strictlly vertically
+* **_repeat-x_** - this repeats the image strictly horizontally
+* **_repeat-y_** - this repeats the image strictly vertically
 * **_no-repeat_** - this creates no repeating image
 
-The background attachment property controls weither the image is fixed or scrolls with the page.
+The background attachment property controls if the image is fixed or scrolls with the page.
 * **_fixed_** - image stays in the same position
 * **_scroll_** - image moves up and down as user scrolls through page.
 
@@ -130,7 +130,7 @@ body {
   background: linear-gradient(90deg, rgb(153, 56, 245) 33%, rgb(41, 41, 41) 33%, rgb(41, 41, 41) 66%, rgb(153, 56, 245) 66%);
 }
 ```
-You should chande the contrast of an image to make text more legable. Or you add a screen inbetween the text and the image.
+You should change the contrast of an image to make text more legible. Or you add a screen in between the text and the image.
 
 ### Chapter 19: Practical Information (p. 476-492)
 
