@@ -26,7 +26,7 @@ code fellows 102
 *  [**Forms and Events**](https://alsosteve.github.io/reading-notes/class-09)
 *  [**JS Debugging**](https://alsosteve.github.io/reading-notes/class-10)
 *  [**Images & Practical Info**](https://alsosteve.github.io/reading-notes/class-11)
-* 
+*  [**Docs for the HTML <canvas> Element & Chart.js**](https://alsosteve.github.io/reading-notes/class-12)
 * 
 * 
 * 
