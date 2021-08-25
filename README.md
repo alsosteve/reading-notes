@@ -27,7 +27,7 @@ code fellows 102
 *  [**JS Debugging**](https://alsosteve.github.io/reading-notes/class-10)
 *  [**Images & Practical Info**](https://alsosteve.github.io/reading-notes/class-11)
 *  [**Docs for the HTML <canvas> Element & Chart.js**](https://alsosteve.github.io/reading-notes/class-12)
-* 
+*  [**Local Storage**](https://alsosteve.github.io/reading-notes/class-13)
 * 
 * 
 
