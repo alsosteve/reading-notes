@@ -1,8 +1,30 @@
 # [Reading-Notes](https://alsosteve.github.io/reading-notes/)
 code fellows 201
 
-# Read: 14 - What Google Learned About Teams
+# Read: 14 - CSS Transforms, Transitions, and Animations
 
-## [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+## [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
-The article starts out with a story from a student at Yale about her experience in team building. The story gets readers interested in the topic with a first person perspective with multiple experiences of the same person.
+## [CSS Transitions & Animations](https://canvas.instructure.com/courses/3154048/discussion_topics/11997991)
+
+## [8 CSS TRANSITIONS](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+Examples of:
+1. Fade in
+2. Change color
+3. Grow & Shrink
+4. Rotate Elements
+5. Square to Circle
+6. 3D Shadow
+7. Swing
+8. Inset boarder
+
+## [6 Button Animations](https://codepen.io/retyui/pen/ByoaXV)
+Floating button animation.
+
+## [CSS Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
+
+## [404 Animation](https://codepen.io/kieranfivestars/pen/MYdQxX)
+An example of animating numbers.
+
+## [CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv)
+An example of a bounce animation.

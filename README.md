@@ -28,7 +28,7 @@ code fellows 102
 *  [**Images & Practical Info**](https://alsosteve.github.io/reading-notes/class-11)
 *  [**Docs for the HTML <canvas> Element & Chart.js**](https://alsosteve.github.io/reading-notes/class-12)
 *  [**Local Storage**](https://alsosteve.github.io/reading-notes/class-13)
-*  [**Team Building**](https://alsosteve.github.io/reading-notes/class-14)
+*  [**CSS Transforms, Transitions, and Animations**](https://alsosteve.github.io/reading-notes/class-14)
 * 
 
 ## <ins> A little about me! </ins>
