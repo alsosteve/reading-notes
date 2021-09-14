@@ -27,7 +27,7 @@ code fellows 102
 *  [**Forms and Events**](code201/class-09.md)
 *  [**JS Debugging**](code201/class-10.md)
 *  [**Images & Practical Info**](code201/class-11.md)
-*  [**Docs for the HTML <canvas> Element & Chart.js**](code201/class-12.md)
+*  [**Docs for the HTML canvas Element & Chart.js**](code201/class-12.md)
 *  [**Local Storage**](code201/class-13.md)
 *  [**CSS Transforms, Transitions, and Animations**](code201/class-14.md)
 
