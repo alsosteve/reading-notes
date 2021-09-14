@@ -5,12 +5,12 @@ code fellows 102
 
 ### Code 102 - Intro to Software Development
 
-* [**Markdown**](https://alsosteve.github.io/reading-notes/markdown)
-* [**The Coder's Computer**](https://alsosteve.github.io/reading-notes/thecoderscomputer)
-* [**Revisions and the Cloud**](https://alsosteve.github.io/reading-notes/revisionsandthecloud)
+* [**Markdown**](code102/markdown.md)
+* [**The Coder's Computer**](code102/thecoderscomputer.md)
+* [**Revisions and the Cloud**](code102/revisionsandthecloud.md)
 * [**The Empire Sucks HTML Page**](https://alsosteve.github.io/empire_sucks/)
-* [**Structure Web Pages with HTML**](https://alsosteve.github.io/reading-notes/structurewebpages)
-* [**Design web pages with CSS**](https://alsosteve.github.io/reading-notes/designwithcss)
+* [**Structure Web Pages with HTML**](code102/structurewebpages.md)
+* [**Design web pages with CSS**](code102/designwithcss.md)
 * [**Dynamic web pages with JavaScript**](https://alsosteve.github.io/reading-notes/dynamicjavascript)
 * [**Operators and Loops**](https://alsosteve.github.io/reading-notes/opsandloops)
 
