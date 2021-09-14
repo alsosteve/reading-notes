@@ -3,7 +3,7 @@ code fellows 102
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 * [**Markdown**](https://alsosteve.github.io/reading-notes/markdown)
 * [**The Coder's Computer**](https://alsosteve.github.io/reading-notes/thecoderscomputer)
@@ -14,7 +14,8 @@ code fellows 102
 * [**Dynamic web pages with JavaScript**](https://alsosteve.github.io/reading-notes/dynamicjavascript)
 * [**Operators and Loops**](https://alsosteve.github.io/reading-notes/opsandloops)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
+
 
 *  [**Introductory HTML and JavaScript**](https://alsosteve.github.io/reading-notes/class-01)
 *  [**Basics of HTML, CSS & JS**](https://alsosteve.github.io/reading-notes/class-02)
@@ -30,6 +31,21 @@ code fellows 102
 *  [**Local Storage**](https://alsosteve.github.io/reading-notes/class-13)
 *  [**CSS Transforms, Transitions, and Animations**](https://alsosteve.github.io/reading-notes/class-14)
 * 
+
+### Code 301 - Intermediate Software Development
+
+
+*
+*
+*
+*
+*
+
+### Code 401 - Advanced Software Development
+
+
+*
+
 
 ## <ins> A little about me! </ins>
 
