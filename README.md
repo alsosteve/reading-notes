@@ -11,26 +11,25 @@ code fellows 102
 * [**The Empire Sucks HTML Page**](https://alsosteve.github.io/empire_sucks/)
 * [**Structure Web Pages with HTML**](code102/structurewebpages.md)
 * [**Design web pages with CSS**](code102/designwithcss.md)
-* [**Dynamic web pages with JavaScript**](https://alsosteve.github.io/reading-notes/dynamicjavascript)
-* [**Operators and Loops**](https://alsosteve.github.io/reading-notes/opsandloops)
+* [**Dynamic web pages with JavaScript**](code102/dynamicjavascript.md)
+* [**Operators and Loops**](code102/opsandloops.md)
 
 ### Code 201 - Foundations of Software Development
 
 
-*  [**Introductory HTML and JavaScript**](https://alsosteve.github.io/reading-notes/class-01)
-*  [**Basics of HTML, CSS & JS**](https://alsosteve.github.io/reading-notes/class-02)
-*  [**HTML Lists, CSS Boxes, JS Control Flow**](https://alsosteve.github.io/reading-notes/class-03)
-*  [**HTML Links, CSS Layout, JS Functions**](https://alsosteve.github.io/reading-notes/class-04)
-*  [**HTML Images; CSS Color & Text**](https://alsosteve.github.io/reading-notes/class-05)
-*  [**JS Object Literals; The DOM**](https://alsosteve.github.io/reading-notes/class-06)
-*  [**HTML Tables; JS Constructor Functions**](https://alsosteve.github.io/reading-notes/class-07)
-*  [**Forms and Events**](https://alsosteve.github.io/reading-notes/class-09)
-*  [**JS Debugging**](https://alsosteve.github.io/reading-notes/class-10)
-*  [**Images & Practical Info**](https://alsosteve.github.io/reading-notes/class-11)
-*  [**Docs for the HTML <canvas> Element & Chart.js**](https://alsosteve.github.io/reading-notes/class-12)
-*  [**Local Storage**](https://alsosteve.github.io/reading-notes/class-13)
-*  [**CSS Transforms, Transitions, and Animations**](https://alsosteve.github.io/reading-notes/class-14)
-* 
+*  [**Introductory HTML and JavaScript**](code201/class-01.md)
+*  [**Basics of HTML, CSS & JS**](code201/class-02.md)
+*  [**HTML Lists, CSS Boxes, JS Control Flow**](code201/class-03.md)
+*  [**HTML Links, CSS Layout, JS Functions**](code201/class-04.md)
+*  [**HTML Images; CSS Color & Text**](code201/class-05.md)
+*  [**JS Object Literals; The DOM**](code201/class-06.md)
+*  [**HTML Tables; JS Constructor Functions**](code201/class-07.md)
+*  [**Forms and Events**](code201/class-09.md)
+*  [**JS Debugging**](code201/class-10.md)
+*  [**Images & Practical Info**](code201/class-11.md)
+*  [**Docs for the HTML <canvas> Element & Chart.js**](code201/class-12.md)
+*  [**Local Storage**](code201/class-13.md)
+*  [**CSS Transforms, Transitions, and Animations**](code201/class-14.md)
 
 ### Code 301 - Intermediate Software Development
 
