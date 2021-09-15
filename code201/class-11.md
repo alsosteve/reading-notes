@@ -17,6 +17,7 @@ Image size can be controlled using the **_height_** and **_width_** properties i
 <img src="images/photo.jpg" class="medium" alt="photo" />
 
 <img src="images/photo.jpg" class="small" alt="photo" />
+```
 
 ``` css
 img.large {
