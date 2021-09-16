@@ -37,7 +37,7 @@ code fellows 102
 *  [**Introduction to React and Components**](code301/class-01.md)
 *  [**State and Props**](code301/class-02.md)
 *  [**Passing Functions as Props**](code301/class-03.md)
-*
+*  [**React and Forms**](code301/class-04.md)
 *
 
 ### Code 401 - Advanced Software Development
