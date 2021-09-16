@@ -19,6 +19,7 @@ if(x===y){
  console.log(false);
   }
 ```
+
 ``` javascript
 let ans = (x===y) ? true : false
 
