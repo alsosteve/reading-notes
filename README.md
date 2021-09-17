@@ -38,7 +38,7 @@ code fellows 102
 *  [**State and Props**](code301/class-02.md)
 *  [**Passing Functions as Props**](code301/class-03.md)
 *  [**React and Forms**](code301/class-04.md)
-*
+*  [**Putting it all together**](code301/class-05.md)
 
 ### Code 401 - Advanced Software Development
 
