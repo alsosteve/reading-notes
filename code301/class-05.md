@@ -20,9 +20,9 @@ code fellows 301
 
 5. To find where your state needs to live you should consider the following: 
 * Identify every component that renders something based on that state.
-*Find a common owner component (a single component above all the components that need the state in the hierarchy).
-*Either the common owner or another component higher up in the hierarchy should own the state.
-*If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
+* Find a common owner component (a single component above all the components that need the state in the hierarchy).
+* Either the common owner or another component higher up in the hierarchy should own the state.
+* If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
 ### [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 1. A higher-ordered function takes other functions as arguments or return them.
