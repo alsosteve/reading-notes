@@ -40,6 +40,7 @@ code fellows 102
 *  [**React and Forms**](code301/class-04.md)
 *  [**Putting it all together**](code301/class-05.md)
 *  [**NODE.JS**](code301/class-06.md)
+*  [**REST**](code301/class-07.md)
 
 ### Code 401 - Advanced Software Development
 
