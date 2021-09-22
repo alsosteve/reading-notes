@@ -41,6 +41,7 @@ code fellows 102
 *  [**Putting it all together**](code301/class-05.md)
 *  [**NODE.JS**](code301/class-06.md)
 *  [**REST**](code301/class-07.md)
+*  [**APIs**](code301/class-08.md)
 
 ### Code 401 - Advanced Software Development
 
