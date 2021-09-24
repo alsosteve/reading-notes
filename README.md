@@ -42,6 +42,8 @@ code fellows 102
 *  [**NODE.JS**](code301/class-06.md)
 *  [**REST**](code301/class-07.md)
 *  [**APIs**](code301/class-08.md)
+*  [**FUNCTIONAL PROGRAMMING**](code301/class-09.md)
+*  [**In memory storage**](code301/class-10.md)
 
 ### Code 401 - Advanced Software Development
 
