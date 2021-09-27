@@ -44,6 +44,7 @@ code fellows 102
 *  [**APIs**](code301/class-08.md)
 *  [**FUNCTIONAL PROGRAMMING**](code301/class-09.md)
 *  [**In memory storage**](code301/class-10.md)
+*  [**Mongo and Mongoose**](code301/class-11.md)
 
 ### Code 401 - Advanced Software Development
 
