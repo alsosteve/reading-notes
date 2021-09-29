@@ -46,6 +46,7 @@ code fellows 102
 *  [**In memory storage**](code301/class-10.md)
 *  [**Mongo and Mongoose**](code301/class-11.md)
 *  [**CRUD**](code301/class-12.md)
+*  [**Diversity & Inclusion in the Tech Industry**](code301/class-13.md)
 
 ### Code 401 - Advanced Software Development
 
