@@ -16,3 +16,7 @@ code fellows 301
 2. Props are passed into components and states are handled inside of components.
 3. The application is rerendered in the state bsaed on what the user has done.
 4. You can store counters and forms in state.
+
+### Additional Resources
+[React Bootstrat Documentation](https://react-bootstrap.github.io/)
+[Netlify](https://www.netlify.com/)
