@@ -52,7 +52,7 @@ code fellows 102
 ### Code 401 - Advanced Software Development
 
 
-*
+*  [**Prep: Readings ... Get Ready for 401**](code401/class-00.md)
 
 
 ## <ins> A little about me! </ins>
