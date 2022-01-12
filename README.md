@@ -53,6 +53,8 @@ code fellows 102
 
 
 *  [**Prep: Readings ... Get Ready for 401**](code401/class-00.md)
+*  [**Node Ecosystem, TDD, CI/CD**](code401/class-01.md)
+*  [**Express**](code401/class-02.md)
 
 
 ## <ins> A little about me! </ins>
