@@ -3,17 +3,17 @@ code fellows 401
 
 # Read: 01 - Node Ecosystem, TDD, CI/CD
 
-### Array Methods
+## Array Methods
 
-#### Array.map
+### Array.map
 The array.map() method creates a new array by calling on a function element at each index of a starting array. The new array is the same length as the starting one.
 
-#### Array.reduce
+### Array.reduce
 The array.reduce() method takes in an array and produces a single value based on a callback function.
 
-### Code snippet of superagent
+## Code snippet of superagent
 
-#### normal Promise .then() syntax
+### normal Promise .then() syntax
 ``` javascript
  request
    .post('/api/pet')
@@ -36,7 +36,7 @@ The array.reduce() method takes in an array and produces a single value based on
    ```
 > [Code provided by visionmedia](https://visionmedia.github.io/superage)
 
-#### with async / await syntax
+### with async / await syntax
 ``` javascript
  request
   .post(my api call)
@@ -51,10 +51,10 @@ The array.reduce() method takes in an array and produces a single value based on
    ```
 > [Code provided by stackoverflow](https://stackoverflow.com/questions/62187645/how-do-i-use-aysnc-await-in-this-superagent-call)
 
-### Promises
+## Promises
 
 A promise an object in code that is a representation of data that is currently not available but will be.
 
-### Are all callback functions considered to be Asynchronous? Why or Why Not?
+## Are all callback functions considered to be Asynchronous? Why or Why Not?
 
 Callback functions can asyncronus if used in asynchronous code.
