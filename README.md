@@ -56,7 +56,8 @@ code fellows 102
 *  [**Node Ecosystem, TDD, CI/CD**](code401/class-01.md)
 *  [**Express**](code401/class-02.md)
 *  [**Express REST API**](code401/class-03.md)
-
+*  [**Data Modeling**](code401/class-04.md)
+*  [**Authentication**](code401/class-06.md)
 
 ## <ins> A little about me! </ins>
 
