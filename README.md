@@ -58,6 +58,7 @@ code fellows 102
 *  [**Express REST API**](code401/class-03.md)
 *  [**Data Modeling**](code401/class-04.md)
 *  [**Authentication**](code401/class-06.md)
+*  [**Bearer Authorization**](code401/class-07.md)
 
 ## <ins> A little about me! </ins>
 
