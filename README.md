@@ -59,6 +59,7 @@ code fellows 102
 *  [**Data Modeling**](code401/class-04.md)
 *  [**Authentication**](code401/class-06.md)
 *  [**Bearer Authorization**](code401/class-07.md)
+*  [**Access Control (ACL)**](code401/class-08.md)
 
 ## <ins> A little about me! </ins>
 
