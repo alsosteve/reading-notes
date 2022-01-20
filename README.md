@@ -60,6 +60,7 @@ code fellows 102
 *  [**Authentication**](code401/class-06.md)
 *  [**Bearer Authorization**](code401/class-07.md)
 *  [**Access Control (ACL)**](code401/class-08.md)
+*  [**Authorization/Authentication**](code401/class-09.md)
 
 ## <ins> A little about me! </ins>
 
