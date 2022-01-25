@@ -61,6 +61,8 @@ code fellows 102
 *  [**Bearer Authorization**](code401/class-07.md)
 *  [**Access Control (ACL)**](code401/class-08.md)
 *  [**Authorization/Authentication**](code401/class-09.md)
+*  [**Event Driven Applications**](code401/class-11.md)
+*  [**Socket.io**](code401/class-12.md)
 
 ## <ins> A little about me! </ins>
 
