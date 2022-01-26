@@ -63,6 +63,7 @@ code fellows 102
 *  [**Authorization/Authentication**](code401/class-09.md)
 *  [**Event Driven Applications**](code401/class-11.md)
 *  [**Socket.io**](code401/class-12.md)
+*  [**Message Queues**](code401/class-13.md)
 
 ## <ins> A little about me! </ins>
 
