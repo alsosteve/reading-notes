@@ -64,6 +64,7 @@ code fellows 102
 *  [**Event Driven Applications**](code401/class-11.md)
 *  [**Socket.io**](code401/class-12.md)
 *  [**Message Queues**](code401/class-13.md)
+*  [**Event Driven Architecture**](code401/class-14.md)
 
 ## <ins> A little about me! </ins>
 
