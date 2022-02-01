@@ -66,6 +66,8 @@ code fellows 102
 *  [**Message Queues**](code401/class-13.md)
 *  [**Event Driven Architecture**](code401/class-14.md)
 *  [**AWS: Cloud Servers**](code401/class-16.md)
+*  [**AWS: S3 and Lambda**](code401/class-17.md)
+
 
 ## <ins> A little about me! </ins>
 
