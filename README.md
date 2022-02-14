@@ -69,6 +69,7 @@ code fellows 102
 *  [**AWS: S3 and Lambda**](code401/class-17.md)
 *  [**AWS: API, Dynamo and Lambda**](code401/class-18.md)
 *  [**AWS: Events**](code401/class-19.md)
+*  [**Component Based UI**](code401/class-26.md)
 
 
 ## <ins> A little about me! </ins>
