@@ -70,6 +70,7 @@ code fellows 102
 *  [**AWS: API, Dynamo and Lambda**](code401/class-18.md)
 *  [**AWS: Events**](code401/class-19.md)
 *  [**Component Based UI**](code401/class-26.md)
+*  [**useState() Hook**](code401/class-27.md)
 
 
 ## <ins> A little about me! </ins>
