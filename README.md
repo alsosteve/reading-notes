@@ -71,6 +71,7 @@ code fellows 102
 *  [**AWS: Events**](code401/class-19.md)
 *  [**Component Based UI**](code401/class-26.md)
 *  [**useState() Hook**](code401/class-27.md)
+*  [**Component Lifecycle**](code401/class-28.md)
 
 
 ## <ins> A little about me! </ins>
