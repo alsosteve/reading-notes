@@ -72,6 +72,7 @@ code fellows 102
 *  [**Component Based UI**](code401/class-26.md)
 *  [**useState() Hook**](code401/class-27.md)
 *  [**Component Lifecycle**](code401/class-28.md)
+*  [**Advanced State with Reducers**](code401/class-29.md)
 
 
 ## <ins> A little about me! </ins>
