@@ -73,6 +73,7 @@ code fellows 102
 *  [**useState() Hook**](code401/class-27.md)
 *  [**Component Lifecycle**](code401/class-28.md)
 *  [**Advanced State with Reducers**](code401/class-29.md)
+*  [**Context API**](code401/class-31.md)
 
 
 ## <ins> A little about me! </ins>
