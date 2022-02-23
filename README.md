@@ -74,7 +74,7 @@ code fellows 102
 *  [**Component Lifecycle**](code401/class-28.md)
 *  [**Advanced State with Reducers**](code401/class-29.md)
 *  [**Context API**](code401/class-31.md)
-
+*  [**Context API - Behaviors**](code401/class-32.md)
 
 ## <ins> A little about me! </ins>
 
