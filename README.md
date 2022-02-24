@@ -75,6 +75,7 @@ code fellows 102
 *  [**Advanced State with Reducers**](code401/class-29.md)
 *  [**Context API**](code401/class-31.md)
 *  [**Context API - Behaviors**](code401/class-32.md)
+*  [**Login and Auth**](code401/class-33.md)
 
 ## <ins> A little about me! </ins>
 
