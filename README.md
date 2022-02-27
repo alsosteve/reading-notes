@@ -77,6 +77,7 @@ code fellows 102
 *  [**Context API - Behaviors**](code401/class-32.md)
 *  [**Login and Auth**](code401/class-33.md)
 *  [**API Integration**](code401/class-34.md)
+*  [**Application State with Redux**](code401/class-36.md)
 
 
 ## <ins> A little about me! </ins>
