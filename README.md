@@ -78,6 +78,8 @@ code fellows 102
 *  [**Login and Auth**](code401/class-33.md)
 *  [**API Integration**](code401/class-34.md)
 *  [**Application State with Redux**](code401/class-36.md)
+*  [**Redux - Combined Reducers**](code401/class-37.md)
+
 
 
 ## <ins> A little about me! </ins>
