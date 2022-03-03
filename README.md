@@ -80,8 +80,7 @@ code fellows 102
 *  [**Application State with Redux**](code401/class-36.md)
 *  [**Redux - Combined Reducers**](code401/class-37.md)
 *  [**Redux - Asynchronous Actions**](code401/class-38.md)
-
-
+*  [**Redux - Additional Topics**](code401/class-39.md)
 
 ## <ins> A little about me! </ins>
 
