@@ -5,7 +5,7 @@ code fellows 401
 
 ## [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 - The article goes over the relationship between pain/suffering and growth
--basically reiterates the growth mindset but in a way that makes it feel like the writer knows you’re going to complain about how hard the courses and this is the reason why
+-basically reiterates the growth mindset but in a way that makes it feel like the writer knows you’re going to complain about how hard the courses and this is the reason why we set the course up like this
 
 
 ## [Beginners Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
