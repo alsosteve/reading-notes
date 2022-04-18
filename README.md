@@ -82,6 +82,12 @@ code fellows 102
 *  [**Redux - Asynchronous Actions**](js401/class-38.md)
 *  [**Redux - Additional Topics**](js401/class-39.md)
 
+### Python 401 - Advanced Software Development
+*  [**Prep: Introduction to SQL**](py401/class-p1.md)
+*  [**Prep: Practice in the Terminal**](py401/class-p2.md)
+*  [**Prep: The Growth Mindset**](py401/class-p3.md)
+*  [**Node Ecosystem, TDD, CI/CD**](py401/class-01.md)
+
 ## <ins> A little about me! </ins>
 
 ![Image of Steve Ngo](https://avatars.githubusercontent.com/u/87996914?v=4)
