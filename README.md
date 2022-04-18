@@ -86,7 +86,8 @@ code fellows 102
 *  [**Prep: Introduction to SQL**](py401/class-p1.md)
 *  [**Prep: Practice in the Terminal**](py401/class-p2.md)
 *  [**Prep: The Growth Mindset**](py401/class-p3.md)
-*  [**Node Ecosystem, TDD, CI/CD**](py401/class-01.md)
+*  [**Readings: Topic**](py401/class-01.md)
+*  [**Testing and Modules**](py401/class-02.md)
 
 ## <ins> A little about me! </ins>
 
