@@ -88,6 +88,7 @@ code fellows 102
 *  [**Prep: The Growth Mindset**](py401/class-p3.md)
 *  [**Readings: Topic**](py401/class-01.md)
 *  [**Testing and Modules**](py401/class-02.md)
+*  [**FileIO & Exceptions**](py401/class-03.md)
 
 ## <ins> A little about me! </ins>
 
