@@ -90,6 +90,7 @@ code fellows 102
 *  [**Testing and Modules**](py401/class-02.md)
 *  [**FileIO & Exceptions**](py401/class-03.md)
 *  [**Variables, Recursion, & Pytest**](py401/class-04.md)
+*  [**Linked Lists**](py401/class-05.md)
 
 ## <ins> A little about me! </ins>
 
