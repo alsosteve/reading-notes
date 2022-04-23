@@ -91,6 +91,7 @@ code fellows 102
 *  [**FileIO & Exceptions**](py401/class-03.md)
 *  [**Variables, Recursion, & Pytest**](py401/class-04.md)
 *  [**Linked Lists**](py401/class-05.md)
+*  [**Ten Thousand Game 1**](py401/class-06.md)
 
 ## <ins> A little about me! </ins>
 
