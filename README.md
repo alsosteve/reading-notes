@@ -92,6 +92,9 @@ code fellows 102
 *  [**Variables, Recursion, & Pytest**](py401/class-04.md)
 *  [**Linked Lists**](py401/class-05.md)
 *  [**Ten Thousand Game 1**](py401/class-06.md)
+*  [**Ten Thousand Game 2**](py401/class-07.md)
+*  [**Ten Thousand Game 3**](py401/class-08.md)
+*  [**Ten Thousand Game 4**](py401/class-09.md)
 
 ## <ins> A little about me! </ins>
 
