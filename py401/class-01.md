@@ -1,7 +1,7 @@
 # [Reading-Notes](https://alsosteve.github.io/reading-notes/)
 Code Fellows Python 401
 
-# Read: 01 - Readings: Topic
+# Read: 01 - Readings: Introduction to Course: Python 401
 
 ## [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 - The article goes over the relationship between pain/suffering and growth
@@ -28,8 +28,6 @@ Code Fellows Python 401
 ## Additional Resources
 - [Season 1, Episode 6, A friendly intro to Big O Notation](https://www.codenewbie.org/basecs/8)
 - [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
-
-
 
 ## Bookmark and Review
 - [Awesome Python Environment](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
