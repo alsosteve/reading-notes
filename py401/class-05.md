@@ -1,7 +1,7 @@
 # [Reading-Notes](https://alsosteve.github.io/reading-notes/)
 Code Fellows Python 401
 
-# Read: 05 - Linked Lists
+# Read: Data Structure and Analysis - Linked Lists
 Linked List - A data structure that contains nodes that links/points to the next node in the list.
 - Nodes are how each set of data is referenced
 - They are recursive in nature
