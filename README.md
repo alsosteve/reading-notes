@@ -100,7 +100,7 @@ code fellows 102
 *  [**Pandas**](py401/class-12.md)
 *  [**Linear Regressions**](py401/class-13.md)
 *  [**Data Visualization**](py401/class-14.md)
-*  [****](py401/class-15.md)
+*  [**Trees**](py401/class-15.md)
 *  [**Serverless Functions**](py401/class-16.md)
 *  [**Web Scraping**](py401/class-17.md)
 *  [**Cryptography**](py401/class-18.md)
