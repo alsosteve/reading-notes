@@ -109,7 +109,7 @@ code fellows 102
 *  [**Django Models**](py401/class-27.md)
 *  [**Django CRUD and Forms**](py401/class-28.md)
 *  [**Django Custom User**](py401/class-29.md)
-*  [****](py401/class-30.md)
+*  [**Hash Tables**](py401/class-30.md)
 *  [**Django REST Framework & Docker**](py401/class-31.md)
 *  [**Permissions & Postgresql**](py401/class-32.md)
 *  [**Authentication & Production Server**](py401/class-33.md)
